@@ -1,4 +1,4 @@
-# RAG-Multimodal-Financial-Document-Analysis-and-Recall
+# RAG-Multimodal-Financial-Document-Analysis-and-Recal
 
 ## 🔍 Context & Motivation
 
